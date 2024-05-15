@@ -17,8 +17,8 @@ DOMAIN-KEYWORD,ad-sign.byteimg.com,REJECT
 DOMAIN-SUFFIX,p9-ad-sign.byteimg.com,REJECT
 DOMAIN-SUFFIX,amdc.m.taobao.com,REJECT
 DOMAIN-SUFFIX,aid.m.taobao.com,REJECT
-DOMAIN-SUFFIX,ut.amap.com,REJECT
-DOMAIN-SUFFIX,m5-x.amap.com,REJECT
+#DOMAIN-SUFFIX,ut.amap.com,REJECT
+#DOMAIN-SUFFIX,m5-x.amap.com,REJECT
 DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com,REJECT
 DOMAIN-SUFFIX,rtlog3-applog-lf.fqnovel.com,REJECT
 DOMAIN-SUFFIX,rtlog5-applog-lf.fqnovel.com,REJECT
