@@ -7,3 +7,15 @@ DOMAIN,cccat.io,🚀 Proxy
 DOMAIN-SUFFIX,d.xfinfr.com,🚀 Proxy
 # > Sub-Store
 DOMAIN-SUFFIX,vercel.app,🚀 Proxy
+
+# > KEYWORD
+DOMAIN-KEYWORD,docker,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-KEYWORD,mastodon,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+# > SUFFIX
+DOMAIN-SUFFIX,nssurge.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-SUFFIX,surgee.me,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-SUFFIX,st7eve.me,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-SUFFIX,cloudflare.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-SUFFIX,vercel.app,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+# > DOMAIN
+DOMAIN,api.amplitude.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜

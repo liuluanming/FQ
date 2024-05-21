@@ -5,5 +5,12 @@ DOMAIN-SUFFIX,pki.goog,REJECT
 DOMAIN-SUFFIX,0613.3prndxd.cn,REJECT
 DOMAIN-SUFFIX,chux.laikanav-t012.xyz,REJECT
 DOMAIN-SUFFIX,www.17c721.com,REJECT
+DOMAIN,api.revenuecat.com,REJECT
 # > Safari 防跳转
 DOMAIN,app-site-association.cdn-apple.com,REJECT
+# > ban UDP on Youtube
+AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com)),REJECT-NO-DROP
+# > ban National Anti-fraud Center
+DOMAIN,prpr.96110.cn.com,DIRECT
+DOMAIN-KEYWORD,96110,REJECT
+DOMAIN-SUFFIX,gjfzpt.cn,REJECT
