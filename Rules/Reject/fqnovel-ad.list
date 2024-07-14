@@ -83,7 +83,9 @@ IP-CIDR6,2408:873C:8010:2::FF66/128,REJECT,no-resolve
 IP-CIDR6,2408:8719:64:9F:3::3F9/128,REJECT,no-resolve
 
 # > 七猫小说广告
-
+DOMAIN-SUFFIX,qm-data.wtzw.com,REJECT
+DOMAIN-SUFFIX,drs-ipv6.wtzw.com,REJECT
+DOMAIN-SUFFIX,shark-tracer.netease.com,REJECT
 DOMAIN-SUFFIX,xlog.jd.com,REJECT
 DOMAIN-SUFFIX,janapi.jd.com,REJECT
 DOMAIN-SUFFIX,bgg.baidu.com,REJECT
