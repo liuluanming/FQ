@@ -83,6 +83,21 @@ IP-CIDR6,2408:873C:8010:2::FF66/128,REJECT,no-resolve
 IP-CIDR6,2408:8719:64:9F:3::3F9/128,REJECT,no-resolve
 
 # > 七猫小说广告
+
+DOMAIN-SUFFIX,xlog.jd.com,REJECT
+DOMAIN-SUFFIX,janapi.jd.com,REJECT
+DOMAIN-SUFFIX,bgg.baidu.com,REJECT
+DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com,REJECT
+DOMAIN-SUFFIX,alpha.alicdn.com,REJECT
+DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
+DOMAIN-SUFFIX,update.wtzw.com,REJECT
+DOMAIN-SUFFIX,qm989.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,sdk.e.qq.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+
 DOMAIN-SUFFIX,ctobsnssdk.com,REJECT
 DOMAIN-SUFFIX,e.qq.com,REJECT
 DOMAIN-SUFFIX,yky.qq.com,REJECT
