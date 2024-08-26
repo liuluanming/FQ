@@ -37,7 +37,7 @@ DOMAIN-KEYWORD,bytedance.com,REJECT
 DOMAIN-KEYWORD,open-lf.douyin.com,REJECT
 DOMAIN-SUFFIX,snssdk.com,REJECT
 DOMAIN-KEYWORD,bdurl.net,REJECT
-DOMAIN-SUFFIX,bytemaimg.com,REJECT
+#DOMAIN-SUFFIX,bytemaimg.com,REJECT
 DOMAIN-KEYWORD,aio.ecombdimg.com,REJECT
 #DOMAIN-SUFFIX,douyinpic.com,REJECT
 DOMAIN-SUFFIX,oceanengine.com,REJECT
@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,bytescm.com,REJECT
 #DOMAIN-SUFFIX,douyinstatic.com,REJECT
 DOMAIN-KEYWORD,app.yangkeduo.com,REJECT
 DOMAIN-SUFFIX,oort-shipper.kakamobi.cn,REJECT
-DOMAIN-KEYWORD,douyincdn.com,REJECT
+#DOMAIN-KEYWORD,douyincdn.com,REJECT
 DOMAIN-SUFFIX,365yg.com,REJECT
 DOMAIN-SUFFIX,wvvvv.9377.cn,REJECT
 DOMAIN-SUFFIX,ef-dongfeng.tanx.com,REJECT
