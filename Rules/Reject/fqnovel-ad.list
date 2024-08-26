@@ -38,7 +38,6 @@ DOMAIN-KEYWORD,open-lf.douyin.com,REJECT
 DOMAIN-SUFFIX,snssdk.com,REJECT
 DOMAIN-KEYWORD,bdurl.net,REJECT
 DOMAIN-SUFFIX,bytemaimg.com,REJECT
-DOMAIN-KEYWORD,zijieapi.com,REJECT
 DOMAIN-KEYWORD,aio.ecombdimg.com,REJECT
 #DOMAIN-SUFFIX,douyinpic.com,REJECT
 DOMAIN-SUFFIX,oceanengine.com,REJECT
