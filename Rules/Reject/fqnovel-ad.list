@@ -7,7 +7,7 @@
 #DOMAIN-KEYWORD,applog-lf.fqnovel.com,DIRECT
 #DOMAIN-KEYWORD,reading-sign.fqnovelpic.com,DIRECT
 
-DOMAIN-SUFFIX,lf3-static.bytednsdoc.com,REJECT
+#DOMAIN-SUFFIX,lf3-static.bytednsdoc.com,REJECT
 DOMAIN-SUFFIX,yyyue.xyz,REJECT
 DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
 DOMAIN-SUFFIX,pstatp.com,REJECT
@@ -32,10 +32,9 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,rdt.tfogc.com,REJECT
 DOMAIN-SUFFIX,toutiaocloud.net,REJECT
 DOMAIN-SUFFIX,toutiaocloud.com,REJECT
-DOMAIN-SUFFIX,bytegecko.com,REJECT
+#DOMAIN-SUFFIX,bytegecko.com,REJECT
 DOMAIN-KEYWORD,bytedance.com,REJECT
 DOMAIN-KEYWORD,open-lf.douyin.com,REJECT
-DOMAIN-SUFFIX,snssdk.com,REJECT
 DOMAIN-KEYWORD,bdurl.net,REJECT
 #DOMAIN-SUFFIX,bytemaimg.com,REJECT
 DOMAIN-KEYWORD,aio.ecombdimg.com,REJECT
