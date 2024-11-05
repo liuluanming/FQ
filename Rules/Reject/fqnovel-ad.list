@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,wsskj520.cn,REJECT
 DOMAIN-SUFFIX,p6-novel.byteimg.com,REJECT
 DOMAIN-KEYWORD,ad-sign.byteimg.com,REJECT
 DOMAIN-SUFFIX,p9-ad-sign.byteimg.com,REJECT
-DOMAIN-SUFFIX,amdc.m.taobao.com,REJECT
+#DOMAIN-SUFFIX,amdc.m.taobao.com,REJECT
 DOMAIN-SUFFIX,aid.m.taobao.com,REJECT
 #DOMAIN-SUFFIX,ut.amap.com,REJECT
 #DOMAIN-SUFFIX,m5-x.amap.com,REJECT
