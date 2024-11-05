@@ -9,13 +9,13 @@ DOMAIN-SUFFIX,d.xfinfr.com,🚀 Proxy
 DOMAIN-SUFFIX,vercel.app,🚀 Proxy
 
 # > KEYWORD
-DOMAIN-KEYWORD,docker,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
-DOMAIN-KEYWORD,mastodon,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-KEYWORD,docker,🚀 Proxy
+DOMAIN-KEYWORD,mastodon,🚀 Proxy
 # > SUFFIX
-DOMAIN-SUFFIX,nssurge.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
-DOMAIN-SUFFIX,surgee.me,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
-DOMAIN-SUFFIX,st7eve.me,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
-DOMAIN-SUFFIX,cloudflare.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
-DOMAIN-SUFFIX,vercel.app,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN-SUFFIX,nssurge.com,🚀 Proxy
+DOMAIN-SUFFIX,surgee.me,🚀 Proxy
+DOMAIN-SUFFIX,st7eve.me,🚀 Proxy
+DOMAIN-SUFFIX,cloudflare.com,🚀 Proxy
+DOMAIN-SUFFIX,vercel.app,🚀 Proxy
 # > DOMAIN
-DOMAIN,api.amplitude.com,𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜
+DOMAIN,api.amplitude.com,🚀 Proxy
