@@ -54,12 +54,12 @@ DOMAIN-SUFFIX,ef-dongfeng.tanx.com,REJECT
 DOMAIN-SUFFIX,adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX,audid-api.taobao.com,REJECT
 DOMAIN-SUFFIX,jpush.io,REJECT
-DOMAIN-SUFFIX,g.alicdn.com,DIRECT
+#DOMAIN-SUFFIX,g.alicdn.com,DIRECT
 DOMAIN-SUFFIX,awemeughun.com,REJECT
 DOMAIN-SUFFIX,ugsdk.cn,REJECT
 DOMAIN-KEYWORD,novelapp.fqnovelvod.com,REJECT
 DOMAIN-SUFFIX,mkt-advertisement.tuhu.cn,REJECT
-DOMAIN-SUFFIX,aliyuncs.com,REJECT
+#DOMAIN-SUFFIX,aliyuncs.com,REJECT
 DOMAIN-SUFFIX,ecombdapi.com,REJECT
 DOMAIN-SUFFIX,hzwxbz2.cn,REJECT
 IP-CIDR,101.36.166.16/32,REJECT,no-resolve
